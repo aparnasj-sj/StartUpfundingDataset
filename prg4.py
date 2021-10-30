@@ -47,4 +47,3 @@ for i in range(len(x)):
     print(x[i],format(Percentage[i],'.2f'))
 
 
-
